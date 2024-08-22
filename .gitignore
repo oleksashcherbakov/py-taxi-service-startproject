@@ -1,4 +1,8 @@
-venv
+venv\
+.github\
+tests\
 pycache
 .idea
 db.sqlite3
+README.md
+checklist.md
